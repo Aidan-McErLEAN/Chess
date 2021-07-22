@@ -1,0 +1,3 @@
+C:\Users\Aidan\source\Reos\cw5-group-challenge-team-6-1\CW5-UUChess\x64\Debug\CW5-UUChess.exe
+C:\Users\Aidan\source\Reos\cw5-group-challenge-team-6-1\CW5-UUChess\x64\Debug\CW5-UUChess.pdb
+C:\Users\aidan\Downloads\Chess\CW5-UUChess\x64\Debug\CW5-UUChess.exe
